@@ -1,0 +1,23 @@
+
+
+.main-content {
+    padding: 2rem;
+  }
+  
+  .page-title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .about-section {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+    line-height: 1.5;
+  }
+  
+  .about-section p {
+    margin-bottom: 1.5rem;
+  }
+  
